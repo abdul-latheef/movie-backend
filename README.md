@@ -15,3 +15,7 @@ git installation
 7) go to git hub login and create repositry and …or push an existing repository from the command line
 8) git remote add origin https://github.com/abdul-latheef/movie-backend.git
 9) git push -u origin main
+
+10) Create Route folder
+
+11) Install nodemon
